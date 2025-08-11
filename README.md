@@ -1,14 +1,13 @@
 # Hey there! 👋 I'm Arjun TK
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Random+Tech+Guy+%F0%9F%A4%96;Hiker+%26+Writer+%F0%9F%8F%94%EF%B8%8F;Engineering+Student+%F0%9F%8E%93;Curiosity+Enthusiast+%F0%9F%94%8D;Building+Cool+Stuff+for+Fun+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Interfering+with+canon+events+%F0%9F%8C%80;Building+cool+stuff+%F0%9F%9A%80;Planning+for+the+next+hike/trip+(prolly)+%F0%9F%8F%94%EF%B8%8F;Annoying+people+on+linkedin+%F0%9F%92%BC;Engineering+(not+really)+%F0%9F%8E%93" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arjun941&label=Profile%20views&color=0e75b6&style=flat" alt="Arjun941" />
   <img src="https://img.shields.io/github/followers/Arjun941?label=Followers&style=social" alt="followers" />
 </p>
-
 ---
 
 ## 🎯 About Me
