@@ -90,7 +90,10 @@ const arjun = {
 ## 🎨 Current Vibe
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31quhnmiqklr7w3qbrzh7c3ual3e&count=1" alt="Spotify recently played" />
+  <a href="https://open.spotify.com/track/4dC70Oarr82CKjieO9DkvW?si=uoQzTNFnT-mrKcblJ7oDow">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a46b4a9d6b36e16e8dad9903" alt="Currently Playing" width="120" height="120" />
+  </a>
+  <br>
 </div>
 
 ```
