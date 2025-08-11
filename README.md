@@ -27,7 +27,6 @@
 </div>
 ---
 
-</div>
 ## 🛠️ Tech Stack & Tools
 
 ### Languages
