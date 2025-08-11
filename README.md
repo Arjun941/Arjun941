@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Arjun TK
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=006400&fontWeight=700&center=true&vCenter=true&width=435&lines=Interfering+with+canon+events+%F0%9F%8C%80;Building+cool+stuff+%F0%9F%9A%80;Planning+for+the+next+hike/trip+(prolly)+%F0%9F%8F%94%EF%B8%8F;Annoying+people+on+linkedin+%F0%9F%92%BC;Engineering+(not+really)+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=006400&center=true&vCenter=true&width=600&lines=Interfering+with+canon+events+%F0%9F%8C%80;Building+cool+stuff+%F0%9F%9A%80;Planning+for+the+next+hike/trip+(prolly)+%F0%9F%8F%94%EF%B8%8F;Annoying+people+on+linkedin+%F0%9F%92%BC;Engineering+(not+really)+%F0%9F%8E%93" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -92,12 +92,10 @@
   <sub>🎵 Currently vibing to this</sub>
 </div>
 
-```
-🔥 Currently vibing with: Random 3AM coding sessions
-🎯 Working on: Something that probably won't work but looks cool
-☕ Fuel: Coffee and unlimited curiosity
-🐿️ Spirit animal: Definitely a squirrel
-```
+🔥 **Currently vibing with:** Random 3AM coding sessions  
+🎯 **Working on:** Something that probably won't work but looks cool  
+☕ **Fuel:** Coffee and unlimited curiosity  
+🐿️ **Spirit animal:** Definitely a squirrel  
 
 ---
 
@@ -139,18 +137,6 @@
 
 ---
 
-## 🎭 Fun Facts
-
-<div align="center">
-  
-| 🎮 Games Built | 🤖 AI Wrappers | 🐍 Python Scripts | ☕ Coffee Consumed |
-|:--------------:|:---------------:|:------------------:|:------------------:|
-|       ???      |       ∞         |        42++        |    Dangerously High |
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -172,7 +158,7 @@
   
 ### 🎯 *"Building cool stuff, one commit at a time"* 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%98%84;Star+my+repos+if+you+find+them+cool!+%E2%AD%90;Let's+build+something+awesome+together!+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=006400&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%98%84;Star+my+repos+if+you+find+them+cool!+%E2%AD%90;Let's+build+something+awesome+together!+%F0%9F%A4%9D" alt="Typing SVG" />
 
 </div>
 
@@ -205,9 +191,3 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Arjun941&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
-
-<!-- 
-📝 Note: Remember to replace placeholder links and usernames with your actual ones!
-🎨 Feel free to customize colors, add more sections, or remove anything you don't like.
-🚀 Pro tip: Pin this repository to make it your profile README!
--->
