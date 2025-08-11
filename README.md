@@ -11,7 +11,7 @@
 
 ---
 ## 🎯 About Me
-<div align="center">
+<div align="left">
 
 💡 *"I believe people should build stuff just for the pure fun of it and not worry about what the world outside may think — and that's exactly what I do."*
 
