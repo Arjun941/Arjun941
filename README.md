@@ -11,42 +11,20 @@
 
 ---
 ## 🎯 About Me
-
 <div align="center">
 
-💡 *"I believe that people should build stuff just for the pure fun of it and not worry about what the world outside may think — and that's exactly what I do."*
+💡 *"I believe people should build stuff just for the pure fun of it and not worry about what the world outside may think — and that's exactly what I do."*
 
----
 
-### 👤 Who Am I?
-🎓 Engineering student (kinda)  
-💻 Random tech guy with **unlimited curiosity**  
-🛠️ Self-taught coder who builds **fun, weird, and sometimes useful projects**  
-🌍 Always learning, always experimenting
+**👤 Who Am I:** Engineering student (sort of), random tech enthusiast with **unlimited curiosity**, and a self-taught coder who builds fun, weird, and sometimes useful projects while experimenting with all kinds of tech.
 
----
+**🧩 What I Work With:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
-### 🧩 What I Work With
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+**🎯 Current Mission:** Building random projects for fun • Trying to hike more often • Learning just because I can
 
----
+**🎒 Side Quests:** Hiking 🏔️ • Writing ✍️ • Watching anime 🍿 • Annoying people on LinkedIn 💼
 
-### 🎯 My Current Mission
-> 🛠 Building random projects for fun  
-> 🥾 Going on hikes/trips whenever possible  
-> 📚 Learning stuff just because I can  
-
----
-
-### 🎒 Side Quests
-- Hiking 🏔️
-- Writing ✍️
-- Watching anime 🍿
-- Annoying people on LinkedIn 💼
-
+</div>
 ---
 
 </div>
