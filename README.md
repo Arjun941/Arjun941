@@ -10,29 +10,46 @@
 </p>
 
 ---
-
 ## 🎯 About Me
 
-> *"I believe that people should build stuff just for the pure fun of it and not worry about what the world outside may think, and that's what I do exactly."*
+<div align="center">
 
-**Random tech guy doing an engineering degree with an unlimited reserve of curiosity**
-
-**What I code with:** Python • JavaScript • C++ • C#  
-**Current mission:** Building random projects for fun  
-**Side quests:** Hiking • Writing • Watching anime
-
-<details>
-<summary>🎮 What you'll find in my digital graveyard</summary>
-
-- 🎲 **Unfinished game projects** made using Unity or Godot
-- 🤖 **An awful amount of dumb wrappers** I vibe coded (mostly) with Google's Gemini API cuz it's free and I've got a little too much extra time, random 3AM thoughts and a free will
-- 🐍 **Some Python scripts** I used to train ML and CV models or dumb experiments that don't even work
-- 💀 **A graveyard of shitty code** I don't even remember why I have here
-
-</details>
+💡 *"I believe that people should build stuff just for the pure fun of it and not worry about what the world outside may think — and that's exactly what I do."*
 
 ---
 
+### 👤 Who Am I?
+🎓 Engineering student (kinda)  
+💻 Random tech guy with **unlimited curiosity**  
+🛠️ Self-taught coder who builds **fun, weird, and sometimes useful projects**  
+🌍 Always learning, always experimenting
+
+---
+
+### 🧩 What I Work With
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+---
+
+### 🎯 My Current Mission
+> 🛠 Building random projects for fun  
+> 🥾 Going on hikes/trips whenever possible  
+> 📚 Learning stuff just because I can  
+
+---
+
+### 🎒 Side Quests
+- Hiking 🏔️
+- Writing ✍️
+- Watching anime 🍿
+- Annoying people on LinkedIn 💼
+
+---
+
+</div>
 ## 🛠️ Tech Stack & Tools
 
 ### Languages
