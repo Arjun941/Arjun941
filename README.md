@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Arjun TK
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Interfering+with+canon+events+%F0%9F%8C%80;Building+cool+stuff+%F0%9F%9A%80;Planning+for+the+next+hike/trip+(prolly)+%F0%9F%8F%94%EF%B8%8F;Annoying+people+on+linkedin+%F0%9F%92%BC;Engineering+(not+really)+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=006400&fontWeight=700&center=true&vCenter=true&width=435&lines=Interfering+with+canon+events+%F0%9F%8C%80;Building+cool+stuff+%F0%9F%9A%80;Planning+for+the+next+hike/trip+(prolly)+%F0%9F%8F%94%EF%B8%8F;Annoying+people+on+linkedin+%F0%9F%92%BC;Engineering+(not+really)+%F0%9F%8E%93" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -15,16 +15,11 @@
 
 > *"I believe that people should build stuff just for the pure fun of it and not worry about what the world outside may think, and that's what I do exactly."*
 
-```javascript
-const arjun = {
-    pronouns: "he/him",
-    code: ["Python", "JavaScript", "C++", "C#"],
-    currentStatus: "Random tech guy doing an engineering degree with an unlimited reserve of curiosity",
-    hobbies: ["Building random projects", "Hiking", "Writing", "Watching anime"],
-    funFact: "I vibe code (mostly) with Google's Gemini API cuz it's free and I've got a little too much extra time ✨",
-    askMeAbout: ["AI tools", "Python libraries", "Movies", "Squirrels 🐿️", "Random 3AM thoughts"]
-};
-```
+**Random tech guy doing an engineering degree with an unlimited reserve of curiosity**
+
+**What I code with:** Python • JavaScript • C++ • C#  
+**Current mission:** Building random projects for fun  
+**Side quests:** Hiking • Writing • Watching anime
 
 <details>
 <summary>🎮 What you'll find in my digital graveyard</summary>
@@ -94,6 +89,7 @@ const arjun = {
     <img src="https://i.scdn.co/image/ab67616d0000b273a46b4a9d6b36e16e8dad9903" alt="Currently Playing" width="120" height="120" />
   </a>
   <br>
+  <sub>🎵 Currently vibing to this</sub>
 </div>
 
 ```
@@ -102,6 +98,17 @@ const arjun = {
 ☕ Fuel: Coffee and unlimited curiosity
 🐿️ Spirit animal: Definitely a squirrel
 ```
+
+---
+
+## 🎭 Fun Facts
+
+<div align="center">
+  
+| ✨ **Fun Fact** | I vibe code (mostly) with Google's Gemini API cuz it's free and I've got a little too much extra time |
+|:---:|:---:|
+
+</div>
 
 ---
 
@@ -134,6 +141,13 @@ const arjun = {
 
 ## 🎭 Fun Facts
 
+<div align="center">
+  
+| 🎮 Games Built | 🤖 AI Wrappers | 🐍 Python Scripts | ☕ Coffee Consumed |
+|:--------------:|:---------------:|:------------------:|:------------------:|
+|       ???      |       ∞         |        42++        |    Dangerously High |
+
+</div>
 
 ---
 
