@@ -78,12 +78,7 @@
 ## 🎨 Current Vibe
 
 <div align="center">
-  <a href="https://open.spotify.com/track/4dC70Oarr82CKjieO9DkvW?si=uoQzTNFnT-mrKcblJ7oDow">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a46b4a9d6b36e16e8dad9903" alt="Currently Playing" width="120" height="120" />
-  </a>
-  <br>
-  <sub>🎵 Currently vibing to this</sub>
-</div>
+
 
 🔥 **Currently vibing with:** Random 3AM coding sessions  
 🎯 **Working on:** Something that probably won't work but looks cool  
