@@ -159,17 +159,11 @@
 
 ## 📈 Recent Activity & Commit History
 
-<details>
-<summary>💀 Click here to see my actual commit graveyard (dynamically updated)</summary>
-
 ### Recent Commits Across All Repos
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun941&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 
 ### Latest Commits
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Arjun941&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)
-
-### Commit Frequency Heatmap
-![GitHub Metrics](https://metrics.lecoq.io/Arjun941?template=classic&config.timezone=Asia%2FKolkata&config.animated=true&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&habits=1&habits.from=200&habits.days=14&habits.facts=true&habits.charts=true&config.timezone=Asia%2FKolkata)
 
 ### Most Active Times
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arjun941&theme=tokyonight" alt="Productive Time" />
