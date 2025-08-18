@@ -24,7 +24,7 @@
 
 - **🎒 Side Quests:** Hiking 🏔️ • Writing ✍️ • Watching anime 🍿 • Annoying people on LinkedIn 💼
 
----
+
 </div>
 
 ## 🛠️ Tech Stack & Tools
@@ -60,7 +60,6 @@
 ![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-59666C?style=for-the-badge&logo=python&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
----
 
 ## 📊 GitHub Stats
 
@@ -73,7 +72,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjun941&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
 
----
+
 
 ## 🎨 Current Vibe
 
@@ -85,7 +84,7 @@
 ☕ **Fuel:** Coffee and unlimited curiosity  
 🐿️ **Spirit animal:** Definitely a squirrel  
 
----
+
 
 ## 💬 Let's Talk About
 
@@ -112,7 +111,6 @@
 </tr>
 </table>
 
----
 
 ## 🌐 Connect With Me
 
@@ -125,7 +123,7 @@
 
 </div>
 
----
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -139,7 +137,7 @@
 
 </div>
 
----
+
 
 ## 📈 Recent Activity & Commit History
 
