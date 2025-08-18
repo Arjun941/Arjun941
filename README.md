@@ -13,7 +13,7 @@
 ## 🎯 About Me
 <div align="left">
 
-💡 *"I believe people should build stuff just for the pure fun of it and not worry about what the world outside may think — and that's exactly what I do."*
+💡 *I believe people should build stuff just for the pure fun of it and not worry about what the world outside may think — and that's exactly what I do.*
 
 
 - **👤 Who Am I:** Engineering student (sort of), random tech enthusiast with **unlimited curiosity**, and a self-taught coder who builds fun, weird, and sometimes useful projects while experimenting with all kinds of tech.
