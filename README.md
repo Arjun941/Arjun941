@@ -87,17 +87,6 @@
 
 ---
 
-## 🎭 Fun Facts
-
-<div align="center">
-  
-| ✨ **Fun Fact** | I vibe code (mostly) with Google's Gemini API cuz it's free and I've got a little too much extra time |
-|:---:|:---:|
-
-</div>
-
----
-
 ## 💬 Let's Talk About
 
 <table>
