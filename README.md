@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Arjun TK
+# Hey there! 👋 I'm Arjun TK (OffSpace)
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=006400&center=true&vCenter=true&width=600&lines=Interfering+with+canon+events+%F0%9F%8C%80;Building+cool+stuff+%F0%9F%9A%80;Planning+for+the+next+hike/trip+(prolly)+%F0%9F%8F%94%EF%B8%8F;Annoying+people+on+linkedin+%F0%9F%92%BC;Engineering+(not+really)+%F0%9F%8E%93" alt="Typing SVG" />
