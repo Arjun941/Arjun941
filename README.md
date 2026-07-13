@@ -61,19 +61,6 @@
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arjun941&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arjun941&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjun941&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph" />
-</div>
-
-
-
 ## 🎨 Current Vibe
 
 <div align="center">
@@ -136,24 +123,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=006400&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%98%84;Star+my+repos+if+you+find+them+cool!+%E2%AD%90;Let's+build+something+awesome+together!+%F0%9F%A4%9D" alt="Typing SVG" />
 
 </div>
-
-
-
-## 📈 Recent Activity & Commit History
-
-### Recent Commits Across All Repos
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun941&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-
-### Latest Commits
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Arjun941&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)
-
-### Most Active Times
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arjun941&theme=tokyonight" alt="Productive Time" />
-
-### Repository Commit Timeline
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjun941&theme=tokyonight" alt="Profile Details" />
-
-</details>
 
 ## 🏆 GitHub Trophies
 
