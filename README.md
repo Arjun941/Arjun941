@@ -123,9 +123,3 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=006400&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%98%84;Star+my+repos+if+you+find+them+cool!+%E2%AD%90;Let's+build+something+awesome+together!+%F0%9F%A4%9D" alt="Typing SVG" />
 
 </div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arjun941&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</div>
